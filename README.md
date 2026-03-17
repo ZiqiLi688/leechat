@@ -59,10 +59,9 @@ Leechat Web 是 Leechat 即时通讯系统的官方 Web 客户端，采用现代
 <br>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/a96f48c3-0b4a-4cdd-8251-d68ef10dfbbb">
 <br>
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/5305cc01-7b20-4e86-9fcb-d8236eabf6fd">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/9404c665-1a47-40d2-9e05-c2cda8eeb485">
 <br>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/e00a84f9-e38b-4f39-af41-115277243ca6">
-
 <br>
 
 ## 安装与运行
