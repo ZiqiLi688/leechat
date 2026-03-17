@@ -198,7 +198,7 @@
         <div class="box-right" :class="{ 'show-right': showRight }">
           <div class="right-top">
             <div class="flex items-center">
-              <linyu-avatar
+              <leechat-avatar
                 :info="{ name: userInfoStore.userName, avatar: userInfoStore.avatar }"
                 size="40px"
                 class="mr-[5px] cursor-pointer"
@@ -243,7 +243,7 @@
               >
                 <div class="online-item-content">
                   <div class="w-[40px] h-[40px] relative">
-                    <linyu-avatar :info="item" size="40px" />
+                    <leechat-avatar :info="item" size="40px" />
                     <div v-if="item.status?.length" class="online-status" />
                   </div>
                   <div class="online-username">{{ item.name }}</div>

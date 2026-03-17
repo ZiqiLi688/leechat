@@ -1,5 +1,5 @@
 <template>
-  <div class="linyu-loading">
+  <div class="leechat-loading">
     <div class="balls">
       <div></div>
       <div></div>
@@ -15,7 +15,7 @@ const props = defineProps({
 </script>
 
 <style scoped>
-.linyu-loading {
+.leechat-loading {
   color: rgba(var(--text-color), 0.7);
   display: flex;
   flex-direction: column;

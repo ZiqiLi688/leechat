@@ -1,5 +1,5 @@
 <template>
-  <div ref="contentRef" class="linyu-label">
+  <div ref="contentRef" class="leechat-label">
     <slot />
   </div>
 </template>
@@ -17,7 +17,7 @@ watch(contentRef, async () => {
 </script>
 
 <style>
-.linyu-label {
+.leechat-label {
   font-size: 12px;
   padding: 1px 5px;
   background-color: rgba(var(--primary-color), 0.1);

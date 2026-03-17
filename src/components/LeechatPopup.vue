@@ -2,7 +2,7 @@
   <div
     v-if="visible"
     @mousedown.stop
-    class="linyu-popup"
+    class="leechat-popup"
     :class="{ overlay: props.overlay }"
     @click="handlerOverlay"
   >
@@ -82,7 +82,7 @@ onBeforeUnmount(() => {
 </script>
 
 <style lang="less" scoped>
-.linyu-popup {
+.leechat-popup {
   .content {
     position: absolute;
     z-index: 88;
